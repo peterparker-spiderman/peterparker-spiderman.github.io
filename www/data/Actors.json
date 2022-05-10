@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Yooung Neo","characterIndex":0,"characterName":"Young neo","classId":2,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Young Neo","traits":[{"code":51,"dataId":9,"value":1},{"code":33,"dataId":0,"value":500},{"code":31,"dataId":9,"value":1},{"code":41,"dataId":2,"value":1},{"code":52,"dataId":6,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Young Neo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Butterdog","nickname":"Butterdog","note":"","profile":"The dog with the butter on ihm."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
